@@ -16,10 +16,10 @@ olá,
 if (isset($_SESSION['nome'])== null){
 ?>
   visitante<br>
+  <br><a href = "cadastro.php">Cadastrar</a><br>
   <a href="login.php">login</a><br>
 <?php } else {
     echo $_SESSION['nome'];?>   
-<br><a href = "cadastro.php">Cadastrar</a><br>
 <a href = "sair.php">sair</a>   
 <?php } ?>
 </center>
