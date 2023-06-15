@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #01a093;
+    font-family: "Arial", sans-serif;
+  }
+  
+.Login {
+    margin: 150px;
+    width: 200px;
+    height: 160px;
+    border: 1px solid gray;
+    padding: 10px 20px;
+    background-color: rgba(51, 182, 238, 0.4);
+
+}
+.inicio{}
+
+.Cad {
+    margin: 150px;
+    width: 200px;
+    height: 160px;
+    border: 1px solid gray;
+    padding: 10px 20px;
+    background-color: rgba(32, 226, 136, 0.411);
+
+}
